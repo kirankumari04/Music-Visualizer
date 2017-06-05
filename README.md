@@ -40,9 +40,9 @@ Open the solution file (Music_Visualizer.sln) from the repository folder. Done!
 
 | Theme                |Key|
 | ---------------------|:--|
-| Time domain waveform |t  |
-| Frequency bars       |f  |
-| misc                 |m  |
+| Time domain waveform |<kbd>t</kbd>|
+| Frequency bars       |<kbd>f</kbd>|
+| misc                 |<kbd>m</kbd>|
 
 I've included a .wav file as an audio sample, you can add more .wav files here and input the relative path as: *music_files/filename.wav*
 or you can give a path to any .wav file on your machine.
